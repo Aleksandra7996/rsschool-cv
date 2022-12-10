@@ -15,6 +15,7 @@ I am 29 years old. At the moment, one of my main goals is to learn front-end.  I
 - JavaScript (basic knowledge)
 - VS Code, Brackets, Sublime Text
 - Gulp (basic knowledge)
+- Docker (basic knowledge)
  ## Code Examples:
 Write a function "greet" that returns "hello world! 
 ```
