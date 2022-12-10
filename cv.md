@@ -1,5 +1,4 @@
 # Kazban Aleksandra
-
 ## Contacts:
 - **Email:** ladoshki92@yandex.ru
 - **Phone:** +375 (25) 967-54-47
@@ -32,7 +31,6 @@ function greet (){
 - [ HTML/CSS. Interactive course, GeekBrains ](https://gb.ru)
 - [ Basics of OOP, GeekBrains ](https://gb.ru)
 - [ Профессия Веб-разработчик ](https://go.skillbox.ru/)
-
  ## English:
 - [ A1, EPAM English test ](https://examinator.epam.com)
 - [ A1-A2, EF SET ](https://www.efset.org/)
