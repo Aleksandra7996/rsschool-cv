@@ -6,7 +6,7 @@
 - **GitHub:** [ Aleksandra7996 ](https://github.com/Aleksandra7996)
 - **Location:** Minsk
 ## About Me:
-I am 29 years old. At the moment, one of my main goals is to learn front-end.  I take every chance to learn new things.  I will use the best efforts to become an expert in this.
+I am 30 years old. At the moment, one of my main goals is to learn front-end.  I take every chance to learn new things.  I will use the best efforts to become an expert in this.
 ## Skills:
 - HTML
 - CSS 
