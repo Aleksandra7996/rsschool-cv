@@ -34,5 +34,5 @@ function greet (){
 - [ Профессия Веб-разработчик ](https://go.skillbox.ru/)
 
  ## English:
-- [ A1, EPAM English test ](https://examinator.epam.com)
-- [ A1-A2, EF SET ](https://www.efset.org/)
+- [ A2, EPAM English test ](https://examinator.epam.com)
+- [ A2, EF SET ](https://www.efset.org/)
